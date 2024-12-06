@@ -1,5 +1,5 @@
 # Overview
-
+&emsp; Data classificaion and missing data prediction Machine Learning project by Alex Castro, Jessica Lin, and Kevin Liu
 # Tools used
 The project was done on python using the <b>Jupyter Notebook</b> and uses various libraries such as Numpy, Pandas, and Scikit-learn.
 
