@@ -20,3 +20,8 @@ The project was done on python using the <b>Jupyter Notebook</b> and uses variou
 &emsp; TrainData 5 contains 11 features with 1119 samples. Testdata5 contains 11 features with 480 samples. There were 6 classes in this dataset. This set used three classifiers: Support vector machine, KNN, and a neural network and combined the predictions.
 
 # Missing Data
+<u>Dataset one:</u><br>
+&emsp; Dataset 1 contains 242 genes with 14 samples. <b>KNN imputation</b> was used to find missing values. 
+
+<u>Dataset two:</u><br>
+&emsp; Dataset 2 contains 758 genes with 50 samples. For this dataset, <b>supervised imputation</b> with a <b>decision tree</b> was used to find missing values.
