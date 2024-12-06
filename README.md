@@ -24,4 +24,4 @@ The project was done on python using the <b>Jupyter Notebook</b> and uses variou
 &emsp; Dataset 1 contains 242 genes with 14 samples. <b>KNN imputation</b> was used to find missing values. 
 
 <u>Dataset two:</u><br>
-&emsp; Dataset 2 contains 758 genes with 50 samples. For this dataset, <b>supervised imputation</b> with a <b>decision Tree</b> was used to find missing values.
+&emsp; Dataset 2 contains 758 genes with 50 samples. For this dataset, <b>supervised imputation</b> with a <b>decision tree</b> was used to find missing values.
