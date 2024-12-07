@@ -31,5 +31,5 @@ The project was done on python using the <b>Jupyter Notebook</b> and uses variou
 <u>Dataset two:</u><br>
 &emsp; Dataset 2 contains 758 genes with 50 samples. For this dataset, <b>supervised imputation</b> with a <b>decision tree</b> was used to find missing values.
 
-# Update 12/06
-In order to run everything, pull from the main branch, and all classification files are under the <b>Classification</b> folder, and all missing value program files are under the <b>MissingValues</b> folder
+# Instructions on running
+&emsp; In order to run everything, pull from the main branch, and all classification files are under the <b>Classification</b> folder, and all missing value program files are under the <b>MissingValues</b> folder
