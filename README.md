@@ -1,9 +1,9 @@
 # Overview
-&emsp; Data classificaion and missing data prediction Machine Learning project by Alex Castro, Jessica Lin, and Kevin Liu. All txt files are under Alex Castro's name, the work was distributed as such:<br>
+&emsp; Data classificaion and missing data prediction Machine Learning project by Alex Castro, Jessica Lin, and Kevin Liu. The work was distributed as such:<br>
 
-Alex Castro worked on dataset classification 1-4<br>
-Kevin Liu worked on classifying dataset 5<br>
-Jessica Lin worked on predicting missing value 1 and 2
+&emsp; Alex Castro worked on dataset classification 1-4<br>
+&emsp; Kevin Liu worked on classifying dataset 5<br>
+&emsp; Jessica Lin worked on predicting missing value 1 and 2
 
 # Tools used
 The project was done on python using the <b>Jupyter Notebook</b> and uses various libraries such as Numpy, Pandas, and Scikit-learn.
